@@ -3,4 +3,4 @@
 A new Flutter project.
 
 ## Getting Started
-![Gambar 1](SS/1.JPG)
+![Gambar 1](ss/1.JPG)
